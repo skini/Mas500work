@@ -1,0 +1,6 @@
+set solib-search-path /Users/srk/Documents/of_v0.8.0_android_release/examples/android/MAS500Intermediate2/obj/local/armeabi:/Users/srk/Documents/of_v0.8.0_android_release/examples/android/MAS500Intermediate2/libs/armeabi
+directory /Users/srk/Documents/android-ndk-r9b/platforms/android-14/arch-arm/usr/include
+directory /Users/srk/Documents/of_v0.8.0_android_release/examples/android/MAS500Intermediate2/src
+directory /Users/srk/Documents/android-ndk-r9b/sources/cxx-stl/system
+directory /Users/srk/Documents/of_v0.8.0_android_release/examples/android/MAS500Intermediate2/libs/armeabi
+
